@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factorization</string>
+    <string name="input_number">Input number</string>
+    <string name="calculate">Calculate</string>
+</resources>
